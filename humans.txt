@@ -1,0 +1,17 @@
+# humans.txt
+
+/* TEAM */
+Developer,Owner: Katochan(no1fushi)
+Site           : 
+GitHub         : https://github.com/maple-flower
+Email          : 
+Twitter        : 
+
+/* THANKS */
+site: 
+
+/* SITE */
+Language  : Japanese
+Standards : HTML5,CSS3,JavaScript
+Components: jQuery,particleground.js
+Software  : SublimeText,GoogleChrome
